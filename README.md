@@ -1,4 +1,4 @@
-# Final-Project-ML-DM (Soccer Match predictor) 
+# Final-Project-ML-DM (Soccer Match Predictor) 
 
 
 
