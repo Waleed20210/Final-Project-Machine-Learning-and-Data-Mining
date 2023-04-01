@@ -17,7 +17,7 @@ Dataset: [Dataset](https://www.kaggle.com/datasets/saife245/english-premier-leag
 
 
 
-## Project Structure
+
 
 ## Team - Group 15
 Waleed El Alawi (100764573)<br> 
