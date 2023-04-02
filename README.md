@@ -11,6 +11,7 @@ Project Final Report<br>
 
 ## Code<br>
 Models:  [Models Code](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/blob/main/models-20230402T043848Z-001.zip) <br>
+Game Pridector App: [App]
 Dataset: [Dataset](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/tree/main/Dataset/archive%20(1)) <br> 
 
 
