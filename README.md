@@ -4,8 +4,6 @@
 
 ## Project Repository Structure and Navigation<br>
 
-Project Proposal<br>
-[Project Proposal Report]
 
 Project Final Report<br>
 [Final Project Report]
