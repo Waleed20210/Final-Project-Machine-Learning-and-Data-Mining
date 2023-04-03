@@ -30,9 +30,9 @@ The idea of this project is to design a machine learning algorithm that is able 
 ## Installation Guide
 1. Navigate to [Game prediction app Folder] <br>(https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/tree/main/Game%20Predictor%20app) <br>
 2. Inside the folder is a python executable file name Gameprediction.py , open the file and a window will pop up , ADJUST the window size becuase it usually is a smalll window that pops when oepened. 
-  #window before adjusting 
+  # window before adjusting 
 ![image](https://user-images.githubusercontent.com/80534064/229390421-071e426a-009a-4466-9b64-c3f21805c21e.png)
-  #window after adjusting
+  # window after adjusting
  ![image](https://user-images.githubusercontent.com/80534064/229390496-de4c431e-a67d-437a-b8b0-6310b83113b5.png)
 
 3. Enter Team names (make sure spellings are correct or it won't work)
