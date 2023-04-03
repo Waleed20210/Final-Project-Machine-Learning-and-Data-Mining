@@ -5,7 +5,7 @@
 ## Project Repository Structure and Navigation<br>
 
 
-Project Final Report [Project Final Report](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/blob/main/ML_Final__report__group_15.pdf) <br>
+Project Final Report: [Project Final Report](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/blob/main/ML_Final__report__group_15.pdf) <br>
 
 
 ## Code<br>
