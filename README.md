@@ -6,7 +6,7 @@
 
 
 Project Final Report<br>
-[Final Project Report](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/tree/main/models%20and%20Training%20files) <br>
+[Final Project Report](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/blob/main/ML_Final__report__group_15.pdf) <br>
 
 
 ## Code<br>
