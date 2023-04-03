@@ -42,5 +42,5 @@ The idea of this project is to design a machine learning algorithm that is able 
 
 # Requirements
 All of the requirements for this python application will be found in [Requirements](https://github.com/Waleed20210/Final-Project-Machine-Learning-and-Data-Mining/blob/main/Requirements.txt)
-  
+## For Further Questions about the Application please refer to our detailed report here: [Project report] 
 
