@@ -38,6 +38,7 @@ The idea of this project is to design a machine learning algorithm that is able 
 3. Enter Team names (make sure spellings are correct or it won't work)
 4. Click the prediction button and the prediction result will be displayed in Green. 
   # Window after execution
-  ![image](https://user-images.githubusercontent.com/80534064/229390686-380a09f2-e883-4e31-9599-16c006ad417a.png)
+  ![image](https://user-images.githubusercontent.com/80534064/229390839-52000007-e66e-450d-975f-aa6d6518622b.png)
+
   
 
